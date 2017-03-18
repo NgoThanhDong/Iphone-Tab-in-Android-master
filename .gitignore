@@ -1,0 +1,13 @@
+.gradle
+*.iml
+.idea/*
+.metadata/*
+build/*
+local.properties
+app/build/*
+androidTest/*
+release/*
+debug/*
+gen/*
+*.class
+
